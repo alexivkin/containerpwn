@@ -1,7 +1,11 @@
 # A collection of resources about container security
 
+* [Publications](Publications/)
+* [Talks](Talks/)
+
 ## Guides, tutorials and trainings
 
+* OWASP 2019 Container security training - https://github.com/alexivkin/Container-Security-Training
 * Adidas training - https://github.com/ContainerSolutions/adidas
 * Hardening - https://www.secjuice.com/how-to-harden-docker-containers/
 * https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines
@@ -14,6 +18,10 @@
 * Contained.af - https://github.com/genuinetools/contained.af
 * Docker labs - https://github.com/docker/labs
 
+## Exploits
+
+* [A Compendium of Container Escapes](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes.pdf) - going from a container to the underlying host
+
 ## Concepts
 
 * containers withouth docker - https://raesene.github.io/blog/2018/08/05/Docker-Containers-Without-Docker/
@@ -22,11 +30,6 @@
 ## Standards and recommendations
 
 * CIS Benchmark - https://www.cisecurity.org/benchmark/docker/
-
-## Orchestrators
-
-* managing secrets in a docker swarm - https://docs.docker.com/engine/swarm/secrets/#read-more-about-docker-secret-commands
-* secret management-  https://www.katacoda.com/courses/docker-security/vault-secrets https://www.katacoda.com/courses/docker-security/docker-volume-libsecret
 
 ## Windows
 
