@@ -5,10 +5,9 @@ Check out the folders here:
 * [Publications](Publications/)
 * [Talks](Talks/)
 
-[My BSides Seattle 2019 Talk](Talks/BSides SEA 2019 - Containers with windows%2C elevators and backdoors.pdf)
+[My BSides Seattle 2019 Talk](Talks/BSides%20SEA%202019%20-%20Containers%20with%20windows%2C%20elevators%20and%20backdoors.pdf)
 
 For Kubernetes related resources check my [other repo](https://github.com/alexivkin/kubepwn)
-
 
 ## Guides, tutorials and trainings
 
