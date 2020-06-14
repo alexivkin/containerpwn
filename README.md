@@ -5,7 +5,7 @@ Check out the folders here:
 * [Publications](Publications/)
 * [Talks](Talks/)
 
-[My BSides Seattle 2019 Talk](Talks/CircleCityCon-2020-Practical-security-in-the-brave-new-Kubernetes-world.pdf)
+[My BSides Seattle 2019 Talk](Talks/BSides SEA 2019 - Containers with windows%2C elevators and backdoors.pdf)
 
 For Kubernetes related resources check my [other repo](https://github.com/alexivkin/kubepwn)
 
