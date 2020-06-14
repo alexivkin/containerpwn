@@ -5,7 +5,10 @@ Check out the folders here:
 * [Publications](Publications/)
 * [Talks](Talks/)
 
+[My BSides Seattle 2019 Talk](Talks/CircleCityCon-2020-Practical-security-in-the-brave-new-Kubernetes-world.pdf)
+
 For Kubernetes related resources check my [other repo](https://github.com/alexivkin/kubepwn)
+
 
 ## Guides, tutorials and trainings
 
@@ -30,8 +33,7 @@ For Kubernetes related resources check my [other repo](https://github.com/alexiv
 * [Katacoda](https://www.katacoda.com/courses/docker-security/)
 * [Docker labs](https://github.com/docker/labs)
 
-
-## Escapes
+## Container escapes
 
 * [Understanding Docker container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
 * [A Compendium of Container Escapes](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes.pdf)
@@ -47,6 +49,7 @@ For Kubernetes related resources check my [other repo](https://github.com/alexiv
 ## Standards and recommendations
 
 * [CIS Benchmark](https://www.cisecurity.org/benchmark/docker/)
+* [Docker bench for security - CIS Benchmark checker](https://github.com/docker/docker-bench-security)
 
 ## Windows
 
