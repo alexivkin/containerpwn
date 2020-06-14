@@ -1,35 +1,52 @@
 # A collection of resources about container security
 
+Check out the folders here:
+
 * [Publications](Publications/)
 * [Talks](Talks/)
 
+For Kubernetes related resources check my [other repo](https://github.com/alexivkin/kubepwn)
+
 ## Guides, tutorials and trainings
 
-* OWASP 2019 Container security training - https://github.com/alexivkin/Container-Security-Training
-* Adidas training - https://github.com/ContainerSolutions/adidas
-* Hardening - https://www.secjuice.com/how-to-harden-docker-containers/
-* https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines
-* https://github.com/OWASP/Docker-Security
-* Building containers, best practices - [docs.projectatomic.io/container-best-practices/](http://docs.projectatomic.io/container-best-practices/)
-
-## Live training and demos
-
-* Katacoda - https://www.katacoda.com/courses/docker-security/
-* Contained.af - https://github.com/genuinetools/contained.af
-* Docker labs - https://github.com/docker/labs
-
-## Exploits
-
-* [A Compendium of Container Escapes](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes.pdf) - going from a container to the underlying host
+* [OWASP 2019 Container security training](https://github.com/alexivkin/Container-Security-Training)
+* [Adidas training](https://github.com/ContainerSolutions/adidas)
+* [Docker hardening](https://www.secjuice.com/how-to-harden-docker-containers/)
+* [Docker secure deployment guides](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
+* [OWASP's docker security](https://github.com/OWASP/Docker-Security)
+* [Building containers, best practices](http://docs.projectatomic.io/container-best-practices/)
+* [Docker security workshop](https://github.com/wurstbrot/docker-security-workshop)
+* [Another Docker security workshop](https://github.com/docker-training/security-workshop)
 
 ## Concepts
 
-* containers withouth docker - https://raesene.github.io/blog/2018/08/05/Docker-Containers-Without-Docker/
-* capabilities - https://raesene.github.io/blog/2017/08/27/Linux-capabilities-and-when-to-drop-all/
+* [Containers withouth docker](https://raesene.github.io/blog/2018/08/05/Docker-Containers-Without-Docker/)
+* [Capabilities](https://raesene.github.io/blog/2017/08/27/Linux-capabilities-and-when-to-drop-all/)
+* [Contained.af](https://github.com/genuinetools/contained.af)
+* Running docker daemon without giving it [root privileges](https://docs.docker.com/engine/security/rootless/)
+
+## Live training and demos
+
+* [Katacoda](https://www.katacoda.com/courses/docker-security/)
+* [Docker labs](https://github.com/docker/labs)
+
+
+## Escapes
+
+* [Understanding Docker container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
+* [A Compendium of Container Escapes](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes.pdf)
+
+## Tools
+
+* [Checking contianment primitives](https://github.com/genuinetools/amicontained)
+* [Clair, a SCA-type tmage scanner](https://github.com/coreos/clair)
+* [Google's tool for analyzing and comparing container images](https://github.com/GoogleContainerTools/container-diff)
+* [Docker registry CLI tool](https://github.com/genuinetools/reg)
+* [Unpack a Docker image](https://github.com/larsks/undocker)
 
 ## Standards and recommendations
 
-* CIS Benchmark - https://www.cisecurity.org/benchmark/docker/
+* [CIS Benchmark](https://www.cisecurity.org/benchmark/docker/)
 
 ## Windows
 
