@@ -5,9 +5,19 @@ Check out the folders here:
 * [Publications](Publications/)
 * [Talks](Talks/)
 
-[My BSides Seattle 2019 Talk](Talks/BSides%20SEA%202019%20-%20Containers%20with%20windows%2C%20elevators%20and%20backdoors.pdf)
-
 For Kubernetes related resources check my [other repo](https://github.com/alexivkin/kubepwn)
+
+## Tools
+
+* [Checking the containment level](https://github.com/genuinetools/amicontained)
+* [dockerscan](https://github.com/cr0hn/dockerscan) - modify and inject content into images
+* [Unpack a Docker image](https://github.com/larsks/undocker)
+* [Clair, a SCA-type tmage scanner](https://github.com/coreos/clair)
+* [Google's tool for analyzing and comparing container images](https://github.com/GoogleContainerTools/container-diff)
+* [Docker registry CLI tool](https://github.com/genuinetools/reg)
+* [Dadga](https://github.com/eliasgranderubio/dagda) - static analysis on images and checking with [Falco](https://falco.org/) at runtime
+* [Docker-bench](https://github.com/aquasecurity/docker-bench) - configuration analysis against CIS Docker benchmark
+* [Dockle](https://github.com/goodwithtech/dockle)- dockerfile linter and scanner
 
 ## Guides, tutorials and trainings
 
@@ -37,13 +47,6 @@ For Kubernetes related resources check my [other repo](https://github.com/alexiv
 * [Understanding Docker container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/)
 * [A Compendium of Container Escapes](https://i.blackhat.com/USA-19/Thursday/us-19-Edwards-Compendium-Of-Container-Escapes.pdf)
 
-## Tools
-
-* [Checking contianment primitives](https://github.com/genuinetools/amicontained)
-* [Clair, a SCA-type tmage scanner](https://github.com/coreos/clair)
-* [Google's tool for analyzing and comparing container images](https://github.com/GoogleContainerTools/container-diff)
-* [Docker registry CLI tool](https://github.com/genuinetools/reg)
-* [Unpack a Docker image](https://github.com/larsks/undocker)
 
 ## Standards and recommendations
 
