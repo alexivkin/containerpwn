@@ -22,6 +22,7 @@ For Kubernetes related resources check my [other repo](https://github.com/alexiv
 ## Guides, tutorials and trainings
 
 * [OWASP 2019 Container security training](https://github.com/alexivkin/Container-Security-Training)
+* [Vulhub](https://github.com/vulhub/vulhub) - Intentionally vulnerable docker environments
 * [Adidas training](https://github.com/ContainerSolutions/adidas)
 * [Docker hardening](https://www.secjuice.com/how-to-harden-docker-containers/)
 * [Docker secure deployment guides](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
